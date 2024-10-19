@@ -1,6 +1,6 @@
 ﻿namespace VMExtensionsPlayground;
 
-internal class GuessingGame
+public class GuessingGame
 {
     private readonly int _numberToGuess;
     private int AvailableGuesses { get; set; }

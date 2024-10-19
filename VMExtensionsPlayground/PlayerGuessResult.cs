@@ -1,5 +1,5 @@
 ﻿namespace VMExtensionsPlayground;
-internal enum PlayerGuessResult
+public enum PlayerGuessResult
 {
     Correct,
     Incorrect,
