@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\VMExtensionsPlayground\VMExtensionsPlayground.csproj" />
+    <ProjectReference Include="..\src\Extension\VMExtensionsPlayground.csproj" />
   </ItemGroup>
 
   <ItemGroup>
